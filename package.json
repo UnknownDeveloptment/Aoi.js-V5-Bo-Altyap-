@@ -1,0 +1,20 @@
+{
+  "name": "Aoi.js V5 Boş Altyapı",
+  "version": "1.0.0",
+  "description": "Hamza'nın Aoi.js V5 Boş Altyapısı.",
+  "main": "index.js",
+  "start": "node index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "repository": "https://github.com/UnknownDeveloptment/Aoi.js-V5-Bos-Altyapi",
+  "author": "HamzaWasNotFound.html#9665",
+  "license": "MIT",
+  "dependencies": {
+    "@akarui/aoi.panel": "^0.0.3",
+    "@types/node": "^18.0.6",
+    "aoi.js": "^5.5.5",
+    "node-fetch": "^3.2.6"
+  }
+}
