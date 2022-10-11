@@ -4,6 +4,8 @@ Merhaba ben Hamza sana bu altyapıyı sunuyorum umarım güzel kodlamalar yapars
 
 [Website](https://info.hamzawasnotfound.tk/)
 
-[Github](https://github.com/UnknownDeveloptment)
+[Repl.it](https://replit.com/@killedhamza1233/)
+
+[Altyapılar](https://altyapilar.hamzawasnotfound.tk/)
 
 Bye.
